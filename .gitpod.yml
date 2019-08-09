@@ -1,0 +1,11 @@
+
+image:
+  file: .gitpod.dockerfile
+# ports:
+#     - port: 3000
+#       onOpen: open-preview
+# tasks:
+#     - init: >
+#         cp .env.example .env;
+#         mysql -u root -e "CREATE DATABASE example";
+#     - command: echo "welcome"
